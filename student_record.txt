@@ -1,0 +1,7 @@
+STUDENT RECORD
+
+Name: Sean Bradley De Vera
+Course: Computer Science
+Year Level: 3rd Year
+Favorite Programming Language: C++
+Career Goal: Software Engineer
